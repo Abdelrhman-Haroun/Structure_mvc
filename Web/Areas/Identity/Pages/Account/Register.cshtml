@@ -1,0 +1,98 @@
+﻿@page
+@using Utilities
+@model RegisterModel
+
+
+<h1>@ViewData["Title"]</h1>
+
+
+
+<style>
+    .imgdiv {
+        background-size: 100% 100%;
+    }
+
+    .loginimg {
+        height: auto;
+        max-width: 100%;
+    }
+
+</style>
+
+
+<section class="py-5">
+    <div class="container px-4 px-lg-5 mt-5">
+        <div class="row">
+            <div class="col-md-5">
+                <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                    <h2>Create a new account.</h2>
+                    <hr />
+                    <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                    <div class="form-floating mb-3">
+                        <input asp-for="Input.Name" class="form-control" autocomplete="username" aria-required="true"  />
+                        <label asp-for="Input.Name">Name</label>
+                        <span asp-validation-for="Input.Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" />
+                        <label asp-for="Input.Email">Email</label>
+                        <span asp-validation-for="Input.Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <input asp-for="Input.PhoneNumber" class="form-control" autocomplete="username" aria-required="true" />
+                        <label asp-for="Input.PhoneNumber">Phone Number</label>
+                        <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <input asp-for="Input.City" class="form-control" autocomplete="username" aria-required="true" />
+                        <label asp-for="Input.City">City</label>
+                        <span asp-validation-for="Input.City" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <input asp-for="Input.Address" class="form-control" autocomplete="username" aria-required="true"  />
+                        <label asp-for="Input.Address">Address</label>
+                        <span asp-validation-for="Input.Address" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-floating mb-3">
+                        <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" />
+                        <label asp-for="Input.Password">Password</label>
+                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" />
+                        <label asp-for="Input.ConfirmPassword">Confirm Password</label>
+                        <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                    </div>
+
+                    @if (User.IsInRole(SD.AdminRole))
+                    {
+                        <input type="radio" name="RoleRadio" value="@SD.AdminRole" /> @SD.AdminRole
+                        <input type="radio" name="RoleRadio" value="@SD.EditorRole" /> @SD.EditorRole
+                        <input type="radio" name="RoleRadio" value="@SD.CustomerRole" /> @SD.CustomerRole
+                    }
+                    @if (User.IsInRole(SD.AdminRole))
+                    {
+                        <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Create new User</button>
+                    }
+                    else
+                    {
+
+                        <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Register</button>
+                    }
+                </form>
+            </div>
+            <div class="col-md-6 col-md-offset-2">
+                <section>
+                    <div class="imgdiv">
+                        <img class="loginimg" src="~/img/login@4x.png" />
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

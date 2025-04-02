@@ -1,0 +1,789 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Web.zmm9ivslsu.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\css\\summary.css",
+      "PackagePath": "staticwebassets\\css\\summary.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\customer\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\customer\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\customer\\css\\styles.css",
+      "PackagePath": "staticwebassets\\customer\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\customer\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\customer\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\img\\avatar2.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\img\\avatar3.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\img\\avatar4.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\img\\avatar5.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\confirm.jpg",
+      "PackagePath": "staticwebassets\\img\\confirm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\img\\default-150x150.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\icons.png",
+      "PackagePath": "staticwebassets\\img\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\login@4x.png",
+      "PackagePath": "staticwebassets\\img\\login@4x.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\img\\photo1.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\img\\photo2.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\img\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\img\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\js\\demo.js",
+      "PackagePath": "staticwebassets\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\Structure_mvc\\Web\\wwwroot\\plugins\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Web.props",
+      "PackagePath": "build\\Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Web.props",
+      "PackagePath": "buildMultiTargeting\\Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Web.props",
+      "PackagePath": "buildTransitive\\Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

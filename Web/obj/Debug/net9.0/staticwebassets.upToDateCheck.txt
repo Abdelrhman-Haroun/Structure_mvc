@@ -1,0 +1,332 @@
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\fontawesome-free\css\v4-shims.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\fontawesome-free\css\fontawesome.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.extra-components.min.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\bootstrap\js\bootstrap.bundle.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\js\site.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.extra-components.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\bootstrap\js\bootstrap.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\bootstrap\js\bootstrap.bundle.min.js.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\adminlte.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.core.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\bootstrap\js\bootstrap.bundle.min.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\summary.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\fontawesome-free\css\solid.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.plugins.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.components.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.pages.min.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\bootstrap\js\bootstrap.min.js.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\fontawesome-free\css\brands.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\js\product.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\bootstrap\js\bootstrap.bundle.js.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.components.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\fontawesome-free\webfonts\fa-regular-400.svg
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\fontawesome-free\css\regular.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.plugins.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\fontawesome-free\css\all.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\adminlte.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\js\pages\dashboard.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\fontawesome-free\css\solid.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\fontawesome-free\css\v4-shims.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\customer\assets\favicon.ico
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.extra-components.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\fontawesome-free\css\svg-with-js.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.plugins.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\bootstrap\js\bootstrap.js.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\fontawesome-free\css\regular.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\adminlte.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\jquery\jquery.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\jquery\jquery.slim.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.core.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\favicon.ico
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.light.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.plugins.min.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\site.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.core.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\customer\css\styles.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.pages.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\fontawesome-free\css\brands.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\js\demo.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.core.min.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\adminlte.min.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.light.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\js\pages\dashboard2.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\jquery\jquery.min.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.light.min.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\js\adminlte.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\js\.eslintrc.json
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\jquery\jquery.slim.min.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\js\adminlte.min.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\js\order.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\js\adminlte.js.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.pages.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\fontawesome-free\css\fontawesome.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\js\adminlte.min.js.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.components.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\jquery\jquery.slim.min.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.extra-components.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\customer\js\scripts.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.pages.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\fontawesome-free\webfonts\fa-solid-900.svg
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\jquery\jquery.min.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\bootstrap\js\bootstrap.min.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\fontawesome-free\css\all.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\js\pages\dashboard3.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.components.min.css.map
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\fontawesome-free\webfonts\fa-brands-400.svg
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\plugins\fontawesome-free\css\svg-with-js.min.css
+C:\Users\abdel\OneDrive\Documents\.Net Projects\Structure_mvc\Web\wwwroot\css\alt\adminlte.light.css
+wwwroot\css\adminlte.css
+wwwroot\css\adminlte.css.map
+wwwroot\css\adminlte.min.css
+wwwroot\css\adminlte.min.css.map
+wwwroot\css\alt\adminlte.components.css
+wwwroot\css\alt\adminlte.components.css.map
+wwwroot\css\alt\adminlte.components.min.css
+wwwroot\css\alt\adminlte.components.min.css.map
+wwwroot\css\alt\adminlte.core.css
+wwwroot\css\alt\adminlte.core.css.map
+wwwroot\css\alt\adminlte.core.min.css
+wwwroot\css\alt\adminlte.core.min.css.map
+wwwroot\css\alt\adminlte.extra-components.css
+wwwroot\css\alt\adminlte.extra-components.css.map
+wwwroot\css\alt\adminlte.extra-components.min.css
+wwwroot\css\alt\adminlte.extra-components.min.css.map
+wwwroot\css\alt\adminlte.light.css
+wwwroot\css\alt\adminlte.light.css.map
+wwwroot\css\alt\adminlte.light.min.css
+wwwroot\css\alt\adminlte.light.min.css.map
+wwwroot\css\alt\adminlte.pages.css
+wwwroot\css\alt\adminlte.pages.css.map
+wwwroot\css\alt\adminlte.pages.min.css
+wwwroot\css\alt\adminlte.pages.min.css.map
+wwwroot\css\alt\adminlte.plugins.css
+wwwroot\css\alt\adminlte.plugins.css.map
+wwwroot\css\alt\adminlte.plugins.min.css
+wwwroot\css\alt\adminlte.plugins.min.css.map
+wwwroot\css\site.css
+wwwroot\css\summary.css
+wwwroot\customer\assets\favicon.ico
+wwwroot\customer\css\styles.css
+wwwroot\customer\js\scripts.js
+wwwroot\favicon.ico
+wwwroot\img\AdminLTELogo.png
+wwwroot\img\avatar.png
+wwwroot\img\avatar2.png
+wwwroot\img\avatar3.png
+wwwroot\img\avatar4.png
+wwwroot\img\avatar5.png
+wwwroot\img\boxed-bg.jpg
+wwwroot\img\boxed-bg.png
+wwwroot\img\confirm.jpg
+wwwroot\img\credit\american-express.png
+wwwroot\img\credit\cirrus.png
+wwwroot\img\credit\mastercard.png
+wwwroot\img\credit\paypal.png
+wwwroot\img\credit\paypal2.png
+wwwroot\img\credit\visa.png
+wwwroot\img\default-150x150.png
+wwwroot\img\icons.png
+wwwroot\img\login@4x.png
+wwwroot\img\photo1.png
+wwwroot\img\photo2.png
+wwwroot\img\photo3.jpg
+wwwroot\img\photo4.jpg
+wwwroot\img\prod-1.jpg
+wwwroot\img\prod-2.jpg
+wwwroot\img\prod-3.jpg
+wwwroot\img\prod-4.jpg
+wwwroot\img\prod-5.jpg
+wwwroot\img\user1-128x128.jpg
+wwwroot\img\user2-160x160.jpg
+wwwroot\img\user3-128x128.jpg
+wwwroot\img\user4-128x128.jpg
+wwwroot\img\user5-128x128.jpg
+wwwroot\img\user6-128x128.jpg
+wwwroot\img\user7-128x128.jpg
+wwwroot\img\user8-128x128.jpg
+wwwroot\js\.eslintrc.json
+wwwroot\js\adminlte.js
+wwwroot\js\adminlte.js.map
+wwwroot\js\adminlte.min.js
+wwwroot\js\adminlte.min.js.map
+wwwroot\js\demo.js
+wwwroot\js\order.js
+wwwroot\js\pages\dashboard.js
+wwwroot\js\pages\dashboard2.js
+wwwroot\js\pages\dashboard3.js
+wwwroot\js\product.js
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\plugins\bootstrap\js\bootstrap.bundle.js
+wwwroot\plugins\bootstrap\js\bootstrap.bundle.js.map
+wwwroot\plugins\bootstrap\js\bootstrap.bundle.min.js
+wwwroot\plugins\bootstrap\js\bootstrap.bundle.min.js.map
+wwwroot\plugins\bootstrap\js\bootstrap.js
+wwwroot\plugins\bootstrap\js\bootstrap.js.map
+wwwroot\plugins\bootstrap\js\bootstrap.min.js
+wwwroot\plugins\bootstrap\js\bootstrap.min.js.map
+wwwroot\plugins\fontawesome-free\css\all.css
+wwwroot\plugins\fontawesome-free\css\all.min.css
+wwwroot\plugins\fontawesome-free\css\brands.css
+wwwroot\plugins\fontawesome-free\css\brands.min.css
+wwwroot\plugins\fontawesome-free\css\fontawesome.css
+wwwroot\plugins\fontawesome-free\css\fontawesome.min.css
+wwwroot\plugins\fontawesome-free\css\regular.css
+wwwroot\plugins\fontawesome-free\css\regular.min.css
+wwwroot\plugins\fontawesome-free\css\solid.css
+wwwroot\plugins\fontawesome-free\css\solid.min.css
+wwwroot\plugins\fontawesome-free\css\svg-with-js.css
+wwwroot\plugins\fontawesome-free\css\svg-with-js.min.css
+wwwroot\plugins\fontawesome-free\css\v4-shims.css
+wwwroot\plugins\fontawesome-free\css\v4-shims.min.css
+wwwroot\plugins\fontawesome-free\webfonts\fa-brands-400.eot
+wwwroot\plugins\fontawesome-free\webfonts\fa-brands-400.svg
+wwwroot\plugins\fontawesome-free\webfonts\fa-brands-400.ttf
+wwwroot\plugins\fontawesome-free\webfonts\fa-brands-400.woff
+wwwroot\plugins\fontawesome-free\webfonts\fa-brands-400.woff2
+wwwroot\plugins\fontawesome-free\webfonts\fa-regular-400.eot
+wwwroot\plugins\fontawesome-free\webfonts\fa-regular-400.svg
+wwwroot\plugins\fontawesome-free\webfonts\fa-regular-400.ttf
+wwwroot\plugins\fontawesome-free\webfonts\fa-regular-400.woff
+wwwroot\plugins\fontawesome-free\webfonts\fa-regular-400.woff2
+wwwroot\plugins\fontawesome-free\webfonts\fa-solid-900.eot
+wwwroot\plugins\fontawesome-free\webfonts\fa-solid-900.svg
+wwwroot\plugins\fontawesome-free\webfonts\fa-solid-900.ttf
+wwwroot\plugins\fontawesome-free\webfonts\fa-solid-900.woff
+wwwroot\plugins\fontawesome-free\webfonts\fa-solid-900.woff2
+wwwroot\plugins\jquery\jquery.js
+wwwroot\plugins\jquery\jquery.min.js
+wwwroot\plugins\jquery\jquery.min.map
+wwwroot\plugins\jquery\jquery.slim.js
+wwwroot\plugins\jquery\jquery.slim.min.js
+wwwroot\plugins\jquery\jquery.slim.min.map
